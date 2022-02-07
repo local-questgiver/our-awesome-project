@@ -139,3 +139,5 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 mySprite.sayText("balls")
+controller.moveSprite(mySprite)
+mySprite.setStayInScreen(true)
