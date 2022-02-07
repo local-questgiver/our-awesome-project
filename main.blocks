@@ -17,19 +17,19 @@
 . . . . . . . . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"P465Soy`,[hkTz#0[Az@"}}</data></shadow><block type="screen_image_picker" id="%9tor/^?`@p_0)]H1Z}G"><field name="img">img`
 . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . e e e . . . . . . . 
-. . . . . e e e e e . . . . . . 
-. . . . . e d d d e . . . . . . 
-. . . . . . d d d . . . . . . . 
-. . . . . . d d d . . . . . . . 
-. . . . . . d d d . . . . . . . 
-. . . . . d d d d d . . . . . . 
-. . . d d d f d f d d d . . . . 
-. . . f d f d d d d f d . . . . 
-. . . d d d d . d d d d . . . . 
-. . . . d d . . . d d . . . . . 
-. . . . . . . . . . . . . . . . 
+. . . . . . f f f . . . . . . . 
+. . . . . f 3 3 3 f . . . . . . 
+. . . . f 3 3 3 3 3 f . . . . . 
+. . . . f 3 d d d 3 f . . . . . 
+. . . . . f d d d f . . . . . . 
+. . . . . f d d d f . . . . . . 
+. . . . . f d d d f . . . . . . 
+. . . f f d d d d d f f . . . . 
+. . f d d d d d d d d d f . . . 
+. . f d d d d d d d d d f . . . 
+. . f d d d d f d d d d f . . . 
+. . . f d d f . f d d f . . . . 
+. . . . f f . . . f f . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"%9tor/^?`@p_0)]H1Z}G"}}</data></block></value><value name="kind"><shadow type="spritekind" id="D,Ncgs7IK,o-RL[~/|_="><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesaytext" id="eq,J7U)7AJ_qlT$SOU#w"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="this"><block type="variables_get" id="3o%`Db$(e?})czNj8(A|"><field name="VAR" id="4s79sCZ0a5vjRccG~{v.">mySprite</field></block></value><value name="text"><shadow type="text" id="S.]%^DB}L}:ah`q[J(.P"><field name="TEXT">balls</field></shadow></value></block></next></block></statement></block></xml>
